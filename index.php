@@ -20,7 +20,7 @@
   <body>
       <div id="header">
         <nav>
-          <?php echo htmlspecialchars(</php><li class="fork"><a href="https://github.com/maxime-delisle">View On GitHub</a></li>); ?>
+          <?php echo htmlspecialchars(<li class="fork"><a href="https://github.com/maxime-delisle">View On GitHub</a></li>); ?>
         </nav>
       </div><!-- end header -->
 
